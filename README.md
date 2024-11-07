@@ -1,3 +1,7 @@
+# Julian de Campos Teixeira - 10400765
+# Luis Gustavo Aguirre Castanho - 10401017
+# Luiz Henrique Bonilha Pasquinelli - 
+
 # Sistema de Recomendação Colaborativo com API REST
 
 Este projeto implementa um sistema de recomendação colaborativa usando Flask (Python) e plumber (R). Ele utiliza filtragem colaborativa para sugerir livros aos usuários.
@@ -15,3 +19,4 @@ Este projeto implementa um sistema de recomendação colaborativa usando Flask (
 ## Endpoints
 - **`GET /users/<user_id>/recommendations`**: Retorna recomendações para o usuário.
 - **`GET /items/<item_id>/similar`**: Retorna itens semelhantes ao item especificado.
+
